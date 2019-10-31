@@ -1,6 +1,11 @@
 # Repository for basic Git Files
 A repository containing sample readme files along with .gitignore and .gitattributes for all frameworks and languages.
 
+# Folder cotents
+* README.md
+* .gitignore
+* .gitattribute
+
 # Table of contents
 1) [React](react/README.md)
 
